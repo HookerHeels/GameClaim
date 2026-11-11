@@ -1,0 +1,18 @@
+Game Claim
+Copyright (c) 2026 OddBoxCode. All rights reserved.
+
+This software and its source code, artwork, logo and name are the property
+of OddBoxCode. You may install and use this extension for personal use.
+You may not copy, modify, redistribute, sell, or publish this software or
+any part of it, or present it as your own, without written permission
+from OddBoxCode.
+
+Giveaway data is provided by GamerPower (https://www.gamerpower.com).
+Ratings are calculated from public Steam review data. Game Claim is not
+affiliated with or endorsed by Valve, Epic Games, GOG, Amazon, or any
+other store it lists. All game names and images belong to their
+respective owners.
+
+THIS SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
+
+Support: oddboxcode@gmail.com
